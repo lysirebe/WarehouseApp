@@ -1,4 +1,4 @@
-from BaseInventoryItem import InventoryItem
+from oldcode.BaseInventoryItem import InventoryItem
 
 class RegularItem(InventoryItem):
     def add_stock(self, amount):

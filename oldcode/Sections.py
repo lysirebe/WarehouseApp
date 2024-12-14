@@ -1,4 +1,4 @@
-from RegularItems import RegularItem, PerishableItem
+from oldcode.RegularItems import RegularItem, PerishableItem
 
 class InventorySection:
     """

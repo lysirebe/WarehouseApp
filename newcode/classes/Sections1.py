@@ -1,4 +1,4 @@
-from RegularItems1 import RegularItem, PerishableItem
+from classes.RegularItems1 import RegularItem, PerishableItem
 
 class InventorySection:
     def __init__(self, name):

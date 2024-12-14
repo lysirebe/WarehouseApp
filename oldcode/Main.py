@@ -2,9 +2,9 @@ import tkinter as tk
 from tkinter import messagebox, ttk
 
 # Import necessary modules
-from InventoryManagement import InventoryManager
-from Sections import InventorySection
-from RegularItems import RegularItem, PerishableItem
+from oldcode.InventoryManagement import InventoryManager
+from oldcode.Sections import InventorySection
+from oldcode.RegularItems import RegularItem, PerishableItem
 
 class WarehouseApp(tk.Tk):
     """
